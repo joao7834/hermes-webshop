@@ -19,7 +19,7 @@ O projeto foi desenvolvido para praticar manipulação do DOM em JavaScript com 
 
 ## Funcionalidades
 
-* **Modo Escuro / Claro (Tema Artemis):** Alternância dinâmica de tema simulando a transição entre o dia e a noite no Olimpo.
+* **Modo Escuro / Claro (Tema Artemis X Apolo):** Alternância dinâmica de tema simulando a transição entre o dia e a noite no Olimpo.
 * **Busca em Tempo Real:** Filtro instantâneo dos artefatos por nome, descrição ou categoria.
 * **Filtro por Categorias:** Navegação fácil por seções (Artefatos, Relíquias, Armas, Defesa, Acessórios).
 * **Item do Dia:** Sistema automatizado que destaca um artefato diferente a cada dia.
